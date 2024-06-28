@@ -1,5 +1,5 @@
 👋 Hi, I’m Ryan, and I’m an Aerospace Major with a Computer Science Minor.
-I'm looking to work in bioastronautics, but I'm also interested in robotics and other space research.
+I'm looking to work in bioastronautics, but I'm also interested in robotics and other work in space.
 
 
 <!---
