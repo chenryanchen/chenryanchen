@@ -1,7 +1,13 @@
 👋 Hi, I’m Ryan, and I’m an Aerospace Major with a Computer Science Minor.
-I'm looking to work in bioastronautics, but I'm also interested in robotics and other work in space.
+I'm looking to work in bioastronautics, but I'm also iasdf
 
-Currently, I'm doing Human-Autonomy Teaming Research at CU Boulder.
+asdf
+adasdfljk
+sdfads
+a
+sdf
+asdf
+
 
 
 <!---
