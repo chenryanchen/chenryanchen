@@ -1,7 +1,8 @@
 👋 Hi, I’m Ryan, and I’m an Aerospace Major with a Computer Science Minor.
-I'm looking to work in bioastronautics, but I'm also interested in robotics and other work in space.
 
 Currently, I'm doing Human-Autonomy Teaming Research at CU Boulder.
+
+PI: Dr. Allie Hayman
 
 
 <!---
